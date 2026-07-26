@@ -2,7 +2,7 @@
 
 This fork Requires OE 3.2.6 or newer.
 
-​[EIP 152](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-152.md)​
+​EIP 152​
 
 ​[EIP 1108](https://eips.ethereum.org/EIPS/eip-1108)​
 
