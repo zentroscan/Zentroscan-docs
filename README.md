@@ -4,7 +4,6 @@ description: Welcome to the documentation portal for Zentroscan Coin
 
 # Summary
 
-![](<.gitbook/assets/docs_1500x500.png>)
 
 Welcome to the go-to portal for in-depth information about the Zentroscan Coin (Zentroscan) platform and ecosystem and how to interact with them!
 
@@ -17,6 +16,5 @@ The Zentroscan Coin documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. **** &#x20;
 
 {% hint style="info" %}
-Join our [Telegram group](https://t.me/)\
-Or say hello at: hello@Zentroscan.com
+
 {% endhint %}
