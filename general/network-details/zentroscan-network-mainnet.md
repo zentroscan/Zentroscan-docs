@@ -4,7 +4,7 @@
 
 | Block size | Block speed | Gas price       | Patchset | Native token | Network ID |
 | ---------- | ----------- | --------------- | -------- | ------------ | ---------- |
-| 20,000,000 | 3 seconds   | 1500000700 GWei |          | Zentroscan   | 65931      |
+| 20,000,000 | 3 seconds   | 1500000700 GWei |          | Zentroscan   | 97745      |
 
 * Network name: **Zentroscan**&#x20;
 * ChanId: 97745
