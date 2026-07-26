@@ -15,7 +15,7 @@
 ## Developers <a href="#general" id="general"></a>
 
 * [Network Details](general-1/network-details/README.md)
-  * [Zentroscan Coin Mainnet](general-1/network-details/Zentroscan-network-mainnet.md)
+  * [Zentroscan Mainnet](general-1/network-details/Zentroscan-network-mainnet.md)
   * [Zentroscan Coin Testnet Zentroscan Coin](general-1/network-details/zentroscan-coin-testnet-zentroscan-coin.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
   * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
@@ -32,7 +32,6 @@
 * [How to run network nodes](general-1/how-to-run-network-nodes.md)
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
-  * [WalletConnect on Zentroscan Coin](general-1/resources-and-tools/walletconnect-on-zentroscan-coin.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
   * [Zentroscan Coin Token](general-1/important-smart-contracts/zentroscan-coin-token.md)
   * [Zentroscan Coin Dollar](general-1/important-smart-contracts/zentroscan-coin-dollar.md)
@@ -46,4 +45,3 @@
     * [Ethereum ↔ Zentroscan Coin Native](general-1/important-smart-contracts/bridges/ethereum-zentroscan-coin-native.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the Zentroscan Coin testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-zentroscan-coin-testnet.md)

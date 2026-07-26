@@ -1,2 +1,0 @@
-# WalletConnect on Zentroscan Coin
-

@@ -13,4 +13,3 @@ To quickly become a validator, follow this steps:
 
 Read more at: [https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example](https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example)
 
-For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!
