@@ -4,21 +4,21 @@
 
 **Discord**: [https://discord.com/invite/](https://discord.com/invite/)&#x20;
 
-**MediaBlock Coin Forum**: [https://forum.MediaBlockscan.io/](https://forum.MediaBlockscan.io/)
+**Zentroscan Coin Forum**: [https://forum.Zentroscan.com/](https://forum.Zentroscan.com/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-<!-- **MediaBlock Coin announcements group**: [https://t.me/MediaBlockAnnouncements](https://t.me/MediaBlockAnnouncements) -->
+<!-- **Zentroscan Coin announcements group**: [https://t.me/ZentroscanAnnouncements](https://t.me/ZentroscanAnnouncements) -->
 
-<!-- **MediaBlock Coin Cash group**: [https://t.me/MediaBlockcash](https://t.me/MediaBlockcash) -->
+<!-- **Zentroscan Coin Cash group**: [https://t.me/Zentroscancash](https://t.me/Zentroscancash) -->
 
-<!-- **medifaktSwap group**: [https://t.me/MediaBlockswap](https://t.me/MediaBlockswap) -->
+<!-- **medifaktSwap group**: [https://t.me/Zentroscanswap](https://t.me/Zentroscanswap) -->
 
-<!-- **MediaBlock Coin NFTs**: [https://t.me/MediaBlockNFTs](https://t.me/MediaBlockNFTs)&#x20; -->
+<!-- **Zentroscan Coin NFTs**: [https://t.me/ZentroscanNFTs](https://t.me/ZentroscanNFTs)&#x20; -->
 
-**Italian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
+**Italian Zentroscan Coin Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian Zentroscan Coin Telegram community:** [https://t.me/](https://t.me/)
 

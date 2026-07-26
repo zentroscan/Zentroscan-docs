@@ -1,5 +1,5 @@
 ---
-description: We will learn how to add liquidity on MediaBlock-BNB pair on Pancakeswap.
+description: We will learn how to add liquidity on Zentroscan-BNB pair on Pancakeswap.
 ---
 
 # Adding Liquidity on PCS
@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on MediaBlock-BNB pair on Pancak
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and MediaBlock should be on Binance smart chain network. To learn how to bridge them from MediaBlock Coin network to BSC using MediaBlockswap this [tutorial](https://docs.MediaBlockscan.io/the-MediaBlock-chain/token-bridges/transfer-MediaBlock-using-bridge-on-MediaBlockswap).
+·        BNB and Zentroscan should be on Binance smart chain network. To learn how to bridge them from Zentroscan Coin network to BSC using Zentroscanswap this [tutorial](https://docs.Zentroscan.com/the-Zentroscan-chain/token-bridges/transfer-Zentroscan-using-bridge-on-Zentroscanswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.
@@ -22,16 +22,16 @@ Navigate to [https://exchange.pancakeswap.finance/\#/swap](https://exchange.panc
 
   
 **Step 2:**  
-Click on “Liquidity” and then on “Add liquidity”. Select the MediaBlock token by entering the contract address of MediaBlock \(0x5857c96dae9cf8511b08cb07f85753c472d36ea3\) and BNB. Enter the amount of MediaBlock you want to add to the liquidity pool and automatically corresponding amount of BNB will show up.  
+Click on “Liquidity” and then on “Add liquidity”. Select the Zentroscan token by entering the contract address of Zentroscan \(0x5857c96dae9cf8511b08cb07f85753c472d36ea3\) and BNB. Enter the amount of Zentroscan you want to add to the liquidity pool and automatically corresponding amount of BNB will show up.  
   
- Click on “Approve MediaBlock” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
+ Click on “Approve Zentroscan” and approve the transaction on Metamask. Once you approve and the transaction is confirmed on-chain the interface will look as shown below.
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
 **Step 3:**  
-Click on “Supply” and double check the details on the popup. Once done approve the transaction on Metamask. Once the transaction is approve you will see the amount of LP tokens you receive for the liquidity provided on MediaBlock-BNB pair as shown below.
+Click on “Supply” and double check the details on the popup. Once done approve the transaction on Metamask. Once the transaction is approve you will see the amount of LP tokens you receive for the liquidity provided on Zentroscan-BNB pair as shown below.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
-MediaBlockscan.io
-You can stake the LP tokens on rewards.MediaBlock.io platform to earn more MediaBlock tokens.
+Zentroscan.com
+You can stake the LP tokens on rewards.Zentroscan.io platform to earn more Zentroscan tokens.
 

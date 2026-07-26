@@ -1,7 +1,7 @@
 ---
 description: >-
   This tutorial explains how to use MyEtherWallet (MEW) so that you can view and
-  transfer MediaBlock.
+  transfer Zentroscan.
 ---
 
 # MEW Tutorial
@@ -22,22 +22,22 @@ description: >-
 
 ![](../../.gitbook/assets/6%20%283%29.png)
 
-**Step 4: MediaBlock** is already present in the default list of tokens on MEW. You just have to search **MediaBlock** on the right hand side \(as shown below\) to view your **MediaBlock** balance on that particular Ethereum address.
+**Step 4: Zentroscan** is already present in the default list of tokens on MEW. You just have to search **Zentroscan** on the right hand side \(as shown below\) to view your **Zentroscan** balance on that particular Ethereum address.
 
 ![](../../.gitbook/assets/7%20%282%29.png)
 
-Now let’s learn how to Send/Receive **MediaBlock** on MEW.
+Now let’s learn how to Send/Receive **Zentroscan** on MEW.
 
-**To receive MediaBlock tokens:** Once completing Steps 1-4, Click on **“Copy Address”** just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive **MediaBlock** and can be viewed on your MEW once confirmed on-chain.
+**To receive Zentroscan tokens:** Once completing Steps 1-4, Click on **“Copy Address”** just below your **“Address”** \(Public key\) as highlighted below. This is the address to which you can receive **Zentroscan** and can be viewed on your MEW once confirmed on-chain.
 
 ![](../../.gitbook/assets/8.png)
 
-**To send MediaBlock:** Click **“Send Transaction”**. When you have **MediaBlock** in your wallet you should be able to select **“MediaBlock”** from the **“Type”** drop down. Enter the **“Amount”** you want to send and also the **“To Address”** to which you want to transfer **MediaBlock**. You can also click on **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.**
+**To send Zentroscan:** Click **“Send Transaction”**. When you have **Zentroscan** in your wallet you should be able to select **“Zentroscan”** from the **“Type”** drop down. Enter the **“Amount”** you want to send and also the **“To Address”** to which you want to transfer **Zentroscan**. You can also click on **“Edit”** if you want to change gas prices. Once you have entered all the details click on **“Send Transaction”.**
 
 * If you are using **Hardware wallets/Wallet connect** to login then you will get a popup screen on Hardware wallets/Wallet connect to approve the transaction. Only after approving you will see the final confirmation dialog box will appear.
 *  If you are using soft login methods then the final confirmation screen will appear once you click “Send Transaction”.
 
-Note: You need to have Ethereum in your wallet which will be used as “Gas fees” to send MediaBlock on MEW.
+Note: You need to have Ethereum in your wallet which will be used as “Gas fees” to send Zentroscan on MEW.
 
 ![](../../.gitbook/assets/9%20%282%29.png)
 
@@ -45,5 +45,5 @@ Note: You need to have Ethereum in your wallet which will be used as “Gas fees
 
 Double check all the details, click **“Confirm and Send”** and wait for your transaction to be confirmed on-chain.
 
-We hope this tutorial helped you to use MEW and send/receive **MediaBlock**. Until next time friends!
+We hope this tutorial helped you to use MEW and send/receive **Zentroscan**. Until next time friends!
 

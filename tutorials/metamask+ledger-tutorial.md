@@ -1,6 +1,6 @@
 # Untitled
 
-We will learn how to connect Ledger to Metamask and use it on MediaBlock Coin network after the latest Metamask and Ledger live update.
+We will learn how to connect Ledger to Metamask and use it on Zentroscan Coin network after the latest Metamask and Ledger live update.
 
 Ledger live 2.26.1
 
@@ -47,7 +47,7 @@ Once the device bridge is opened go back to Metamask and select the Account \(ad
 
 ![Capture.PNG](../.gitbook/assets/6%20%2810%29.png)
 
-You will be logged in to the address you selected and now you can change to “MediaBlock Coin network” and perform the transactions on MediaBlock Coin network through your Ledger device.
+You will be logged in to the address you selected and now you can change to “Zentroscan Coin network” and perform the transactions on Zentroscan Coin network through your Ledger device.
 
-Note: To learn how to add MediaBlock Coin network RPC follow [this link.](https://docs.MediaBlockscan.io/the-MediaBlock-studio/getting-started/how-to-add-MediaBlock-to-your-metamask)
+Note: To learn how to add Zentroscan Coin network RPC follow [this link.](https://docs.Zentroscan.com/the-Zentroscan-studio/getting-started/how-to-add-Zentroscan-to-your-metamask)
 

@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports MediaBlock Coin data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports Zentroscan Coin data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on MediaBlock Coin with Remix, simply choose injected web3 and add the MediaBlock Coin custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on Zentroscan Coin with Remix, simply choose injected web3 and add the Zentroscan Coin custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

@@ -1,9 +1,9 @@
 # Delegation through Staking with Validators
 
-As discussed on the previous page, MediaBlock Coin validators can boost their share of the overall consensus stake by attracting funds from other users who do not run validator nodes themselves. 
+As discussed on the previous page, Zentroscan Coin validators can boost their share of the overall consensus stake by attracting funds from other users who do not run validator nodes themselves. 
 
-Those users are referred to as 'delegators.' A delegator is free to choose any validator (or validators) and stake any amount of MediaBlock with them to participate. The most convenient way to delegate MediaBlock to a validator is via the MediaBlock Coin Staking [platform](https://staking.MediaBlockscan.io). 
+Those users are referred to as 'delegators.' A delegator is free to choose any validator (or validators) and stake any amount of Zentroscan with them to participate. The most convenient way to delegate Zentroscan to a validator is via the Zentroscan Coin Staking [platform](https://staking.Zentroscan.com). 
 
-A delegator receives the share of MediaBlock Coin block rewards proportionate to their stake minus the fee paid to their chosen validator. The minimum fee is currently set at 15%. This value was chosen to mitigate the risk of validator consolidation through offering very low delegation fees.
+A delegator receives the share of Zentroscan Coin block rewards proportionate to their stake minus the fee paid to their chosen validator. The minimum fee is currently set at 15%. This value was chosen to mitigate the risk of validator consolidation through offering very low delegation fees.
 
-Currently, delegators are allowed to unstake their MediaBlock at any time but plans are in motion to introduce a minimum staking period.   
+Currently, delegators are allowed to unstake their Zentroscan at any time but plans are in motion to introduce a minimum staking period.   

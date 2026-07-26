@@ -1,6 +1,6 @@
 # imToken wallet tutorial
 
-Below tutorial will help you understand how to add MediaBlock Coin network RPC on imToken through chainlist.org and transfer/receive tokens on MediaBlock network in imToken wallet.   
+Below tutorial will help you understand how to add Zentroscan Coin network RPC on imToken through chainlist.org and transfer/receive tokens on Zentroscan network in imToken wallet.   
   
  Note: The tutorial is made with imToken app version 2.8.4 on Android phone.  
   
@@ -20,7 +20,7 @@ Below tutorial will help you understand how to add MediaBlock Coin network RPC o
 
 ![](../../.gitbook/assets/3.jpg)
 
-**Step 4:** Once the Chainlist Dapp is open click on “Connect wallet” at right hand top corner and once the wallet is connected search of “MediaBlock Coin” on the list of EVM networks. Click on “Add to imToken” next to MediaBlock Coin Mainnet and “Approve” the details of MediaBlock Coin RPC on the next step as shown below.
+**Step 4:** Once the Chainlist Dapp is open click on “Connect wallet” at right hand top corner and once the wallet is connected search of “Zentroscan Coin” on the list of EVM networks. Click on “Add to imToken” next to Zentroscan Coin Mainnet and “Approve” the details of Zentroscan Coin RPC on the next step as shown below.
 
 ![](../../.gitbook/assets/4.jpg)
 
@@ -28,7 +28,7 @@ Below tutorial will help you understand how to add MediaBlock Coin network RPC o
 
 ![](../../.gitbook/assets/6.jpg)
 
-**Step 5:** Now you have successfuly added MediaBlock Coin network RPC on imToken wallet. You can now send/receive MediaBlock Coin network assets on imToken wallet.  
+**Step 5:** Now you have successfuly added Zentroscan Coin network RPC on imToken wallet. You can now send/receive Zentroscan Coin network assets on imToken wallet.  
   
  **Note:** You will have to add the contract address of the tokens manually for the wallet to show balances.  
 

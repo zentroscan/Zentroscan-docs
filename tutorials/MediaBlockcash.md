@@ -1,16 +1,16 @@
 ---
-description: Security practices for keeping your MediaBlock.cash wallet secured
+description: Security practices for keeping your Zentroscan.cash wallet secured
 ---
 
-# MediaBlock.cash wallet security guidelines
+# Zentroscan.cash wallet security guidelines
 
-## Useful Guidelines on Keeping Your MediaBlock.cash Wallet Secured 🔐
+## Useful Guidelines on Keeping Your Zentroscan.cash Wallet Secured 🔐
 
-![](../.gitbook/assets/MediaBlock-cash-card-image-1200x628-.png)
+![](../.gitbook/assets/Zentroscan-cash-card-image-1200x628-.png)
 
 ###  **1. Start with a Secure Foundation for Your Wallet**
 
-Make sure your device is free of any malware and never install [**MediaBlock.cash**](https://MediaBlock.cash/) ****onto a rooted device. To make sure you are always using an authentic version of MediaBlock.cash wallet, you should download the app exclusively from the links provided on our [**website**](https://MediaBlock.cash/).
+Make sure your device is free of any malware and never install [**Zentroscan.cash**](https://Zentroscan.cash/) ****onto a rooted device. To make sure you are always using an authentic version of Zentroscan.cash wallet, you should download the app exclusively from the links provided on our [**website**](https://Zentroscan.cash/).
 
 ### **2. Never Share Your Recovery Phrase or Private Key with Anyone**
 
@@ -29,14 +29,14 @@ Always keep a copy of your recovery phrase stored offline! Writing it down on a 
 Remember to always backup your recovery phrase through the in-app security feature. 
 
 {% hint style="info" %}
-**Backup your recovery phrase in MediaBlock.cash wallet by navigating to 'Account' -&gt; 'Protect your wallet' -&gt; 'Back up' .**
+**Backup your recovery phrase in Zentroscan.cash wallet by navigating to 'Account' -&gt; 'Protect your wallet' -&gt; 'Back up' .**
 {% endhint %}
 
 In the event your phone is broken, stolen, lost or the app is accidentally deleted, your wallet can always be restored on a different phone using the recovery phrase. There is no reset or recovery process, so if you lose your phrase, you lose your funds!
 
 ### **5. Enable Passcode or Touch/Face ID**
 
-To make sure only you have access to your MediaBlock Coin Cash mobile app, make sure to add another layer of authentication such as Passcode or Touch/Face ID to access your funds on your MediaBlock Coin Cash wallet. This prevents any bad actors accessing your wallet in case you lose your mobile device or leave it unsafe .  
+To make sure only you have access to your Zentroscan Coin Cash mobile app, make sure to add another layer of authentication such as Passcode or Touch/Face ID to access your funds on your Zentroscan Coin Cash wallet. This prevents any bad actors accessing your wallet in case you lose your mobile device or leave it unsafe .  
 ****
 
 

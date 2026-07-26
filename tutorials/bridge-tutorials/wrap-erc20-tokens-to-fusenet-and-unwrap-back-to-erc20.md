@@ -1,12 +1,12 @@
 ---
 description: >-
-  Steps to transfer/wrap MediaBlock20 tokens from Ethereum to MediaBlocknet and back using
+  Steps to transfer/wrap Zentroscan20 tokens from Ethereum to Zentroscannet and back using
   smart contracts.
 ---
 
-# Using the bridge with MediaBlock20 tokens directly through the contract
+# Using the bridge with Zentroscan20 tokens directly through the contract
 
-**Please use this tutorial at your own risk as it involves using Etherscan UI/MediaBlock Coin explorer to relay the tokens. This tutorial is applicable only for MediaBlock20 tokens other than MediaBlock. Do not use this tutorial to transfer MediaBlock.** 
+**Please use this tutorial at your own risk as it involves using Etherscan UI/Zentroscan Coin explorer to relay the tokens. This tutorial is applicable only for Zentroscan20 tokens other than Zentroscan. Do not use this tutorial to transfer Zentroscan.** 
 
 We are going to have a UI soon so it would be good to wait for the bridge UI too.
 
@@ -14,9 +14,9 @@ Below are the important contract addresses:
 
 Ethereum Mediator: **0xf301d525da003e874DF574BCdd309a6BF0535bb6**
 
-MediaBlocknet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
+Zentroscannet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
 
-In the below example we will consider USDT \(MediaBlock20\) and learn how to wrap USDT to MediaBlocknet and relay it back to MediaBlock20.
+In the below example we will consider USDT \(Zentroscan20\) and learn how to wrap USDT to Zentroscannet and relay it back to Zentroscan20.
 
 **Step 1:** **Approving the USDT token contract**
 
@@ -54,27 +54,27 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/3%20%285%29.png)
 
-Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your MediaBlock Coin address and have been swapped from Ethereum mainnet to MediaBlocknet.
+Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Zentroscan Coin address and have been swapped from Ethereum mainnet to Zentroscannet.
 
-Now let’s learn how to transfer the wrapped MediaBlock20 tokens on MediaBlocknet back to Ethereum mainnet.
+Now let’s learn how to transfer the wrapped Zentroscan20 tokens on Zentroscannet back to Ethereum mainnet.
 
-**Step 1:** Approving the wrapped USDT token contract on MediaBlocknet. 
+**Step 1:** Approving the wrapped USDT token contract on Zentroscannet. 
 
-This step basically is to approve your wallet to interact with the USDT token contract on MediaBlocknet so that you can transfer the tokens to the Mediator contract.
+This step basically is to approve your wallet to interact with the USDT token contract on Zentroscannet so that you can transfer the tokens to the Mediator contract.
 
-Please go to token contract on MediaBlocknet explorer via link below.
+Please go to token contract on Zentroscannet explorer via link below.
 
-https://MediaBlockscan.io/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
+https://Zentroscan.com/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is MediaBlock network. If you have not added MediaBlock Coin network please follow the instructions [here](https://docs.MediaBlockscan.io/the-MediaBlock-studio/getting-started/how-to-add-MediaBlock-to-your-metamask).
+Make sure that the network is Zentroscan network. If you have not added Zentroscan Coin network please follow the instructions [here](https://docs.Zentroscan.com/the-Zentroscan-studio/getting-started/how-to-add-Zentroscan-to-your-metamask).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 
  **Step 2:** Go to **“approve”** and enter the details below
 
-* spender \(address\) field: the mediator contract address on MediaBlocknet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
+* spender \(address\) field: the mediator contract address on Zentroscannet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
 * spender \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 18\)
 
 Click on **“Write”** and approve the transaction on your Metamask wallet and wait for the confirmation on-chain.
@@ -83,20 +83,20 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 **Step 3:**
 
-Navigate to Migrator contract on MediaBlocknet using the link below
+Navigate to Migrator contract on Zentroscannet using the link below
 
-[https://MediaBlockscan.io/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://MediaBlockscan.io/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
+[https://Zentroscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://Zentroscan.com/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
 Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If you have connected Metamask previously no need to connect again\). Sign in through your Metamask wallet.
 
 Enter the below details on **“Relay tokens”** and click on **“Write”**
 
-* token \(address\) field: the USDT token contract address on MediaBlocknet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
+* token \(address\) field: the USDT token contract address on Zentroscannet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
 * \_value \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 6\)
 
 ![](../../.gitbook/assets/6%20%285%29.png)
 
-After the transaction is confirmed on MediaBlock Coin network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as MediaBlock Coin is PoS network. After sometime you should be able to see the successful transfer of the token on your MediaBlock20 address.
+After the transaction is confirmed on Zentroscan Coin network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Zentroscan Coin is PoS network. After sometime you should be able to see the successful transfer of the token on your Zentroscan20 address.
 
 Note: Please do enter the decimals very carefully. If the decimals are entered incorrectly then the transaction might fail with an error or might cost you very high gas.
 

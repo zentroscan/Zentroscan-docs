@@ -1,25 +1,25 @@
-# MediaBlock Coin Studio
+# Zentroscan Coin Studio
 
 
 
-![MediaBlock Coin Studio architecture](../../.gitbook/assets/image%20%283%29.png)
+![Zentroscan Coin Studio architecture](../../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 
 The backend is composed of the following independent services
 
 * Studio API Backend has two purposes. Provides an API for fast and convenient querying of the blockchain data for the Studio DApp. Transmits heavy and complicated transaction flows on behalf of the user.
-* MediaBlock Coin-funder service used to fund community members and wallet users on the MediaBlock Coin blockchain.
-* MediaBlock Coin IPFS proxy used for fast fetching and storing data in IPFS.
+* Zentroscan Coin-funder service used to fund community members and wallet users on the Zentroscan Coin blockchain.
+* Zentroscan Coin IPFS proxy used for fast fetching and storing data in IPFS.
 
 ## Contracts
 
-MediaBlock Coin studio is designed to launch DeFi communities on the MediaBlock Coin network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
+Zentroscan Coin studio is designed to launch DeFi communities on the Zentroscan Coin network. The community contract binds together most of the services and features of the Studio. Among other things it consists of:
 
 * Entities List contract to store community members and their roles
-* Community MediaBlock20 tokens on MediaBlock Coin network with transfer rules
-* MediaBlock20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
-* [Multitoken bridge](https://github.com/MediaBlockio/bridge-contracts) - to minimize friction and costs we extended the POA MediaBlock20-MediaBlock20 bridge contract to many-MediaBlock20-to-many contract.
+* Community Zentroscan20 tokens on Zentroscan Coin network with transfer rules
+* Zentroscan20 tokens on Ethereum. This is the token that the user issues as part of the community deployment process
+* [Multitoken bridge](https://github.com/Zentroscanio/bridge-contracts) - to minimize friction and costs we extended the POA Zentroscan20-Zentroscan20 bridge contract to many-Zentroscan20-to-many contract.
 
 ## Plugins
 

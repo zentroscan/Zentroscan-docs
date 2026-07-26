@@ -1,3 +1,3 @@
-# Wallets supporting MediaBlock Coin
+# Wallets supporting Zentroscan Coin
 
-The following wallets currently support the MediaBlock Coin blockchain.
+The following wallets currently support the Zentroscan Coin blockchain.

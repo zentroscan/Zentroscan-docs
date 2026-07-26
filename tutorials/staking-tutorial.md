@@ -1,16 +1,16 @@
 ---
-description: This tutorial will explain how to delegate/stake/unstake your MediaBlock.
+description: This tutorial will explain how to delegate/stake/unstake your Zentroscan.
 ---
 
 # Staking tutorial
 
-Note: You can only stake MediaBlock which is on MediaBlock Coin network. Please make sure you have changed into MediaBlock Coin network in Metamask while doing any transactions on staking UI. 
+Note: You can only stake Zentroscan which is on Zentroscan Coin network. Please make sure you have changed into Zentroscan Coin network in Metamask while doing any transactions on staking UI. 
 
-How to Stake MediaBlock Coin:
+How to Stake Zentroscan Coin:
 
 **Step 1:**
 
-Navigate to staking.MediaBlockscan.io and login to your wallet through metamask. Make sure you are on MediaBlock Coin network. If you are not please follow the instructions [**here**](https://docs.MediaBlockscan.io/the-MediaBlock-studio/getting-started/how-to-add-MediaBlock-to-your-metamask).
+Navigate to staking.Zentroscan.com and login to your wallet through metamask. Make sure you are on Zentroscan Coin network. If you are not please follow the instructions [**here**](https://docs.Zentroscan.com/the-Zentroscan-studio/getting-started/how-to-add-Zentroscan-to-your-metamask).
 
 ![](../.gitbook/assets/0%20%284%29.png)
 
@@ -35,11 +35,11 @@ You should see the **“stake**” option when you hover over the Validator you 
 
 ![](../.gitbook/assets/2%20%287%29.png)
 
-You will also see the APY on staking when you enter the amount of MediaBlock you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
+You will also see the APY on staking when you enter the amount of Zentroscan you want to stake. You can see the staked amount right next to the validator name to whom you have delegated you stake to. 
 
 ![](../.gitbook/assets/3%20%286%29.png)
 
-**How to Unstake MediaBlock:**
+**How to Unstake Zentroscan:**
 
 Click on the Validator name and you should see the validator name with address on the right hand side. Click on **“unstake”** and enter the amount you want to unstake and click on **“unstake”**. Confirm the transaction on Metamask and wait for the on-chain confirmation. Once the transaction is confirmed the unstaked amount is transferred back to your address.
 

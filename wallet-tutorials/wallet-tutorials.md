@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial will explain how to add, send and receive MediaBlock on your Trust
+  This tutorial will explain how to add, send and receive Zentroscan on your Trust
   wallet.
 ---
 
@@ -18,37 +18,37 @@ This guide has been prepared using Trust wallet version **1.15.5** on Android.
 
 ![](../.gitbook/assets/2-2.jpg)
 
-**Step 3:** Make sure the network is selected as **“Ethereum”** and enter the MediaBlock contract details as mentioned below.
+**Step 3:** Make sure the network is selected as **“Ethereum”** and enter the Zentroscan contract details as mentioned below.
 
-**MediaBlock**:
+**Zentroscan**:
 
 Contract address - **0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d**
 
-Name - **MediaBlock token**
+Name - **Zentroscan token**
 
-Symbol - **MediaBlock**
+Symbol - **Zentroscan**
 
 Decimals - **18**
 
 ![](../.gitbook/assets/3%20%281%29.jpeg)
 
-**Step 4:** You have added **MediaBlock** successfully on your Trust wallet and now you should see **MediaBlock** on your main page as shown below.
+**Step 4:** You have added **Zentroscan** successfully on your Trust wallet and now you should see **Zentroscan** on your main page as shown below.
 
 ![](../.gitbook/assets/4-1.jpg)
 
-Now let’s learn how to Send/Receive **MediaBlock** on Trust wallet.
+Now let’s learn how to Send/Receive **Zentroscan** on Trust wallet.
 
-**To receive MediaBlock:** Once completing Steps 1-4, Press on **MediaBlock token** in the main page of your wallet and you should see the Send/Receive button as shown below. Now click on **“Receive”** and your **MediaBlock token** address \(Public key\) will appear to which you can send MediaBlock. Once the transaction is confirmed on-chain the MediaBlock balance will be shown.
+**To receive Zentroscan:** Once completing Steps 1-4, Press on **Zentroscan token** in the main page of your wallet and you should see the Send/Receive button as shown below. Now click on **“Receive”** and your **Zentroscan token** address \(Public key\) will appear to which you can send Zentroscan. Once the transaction is confirmed on-chain the Zentroscan balance will be shown.
 
 ![](../.gitbook/assets/5-1.jpg)
 
 ![](../.gitbook/assets/5-2.jpg)
 
-**To send MediaBlock:** Press “**MediaBlock token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **MediaBlock** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
+**To send Zentroscan:** Press “**Zentroscan token”** on the main page of your wallet and you will see **“Send/Receive”** button as shown below. Now click **“Send”** which will take you to the next page where you need to enter the **“Recipient Address”** to which you want to send **Zentroscan** to and the **“Amount”** then click **“Continue”.** You can adjust the gas fees according to the Ethereum network gas prices and confirm the transaction.
 
 ![](../.gitbook/assets/6-1.jpg)
 
 ![](../.gitbook/assets/6-2.jpg)
 
-We hope this tutorial helped you to use MEW and send/receive MediaBlock tokens. Until next time friends!
+We hope this tutorial helped you to use MEW and send/receive Zentroscan tokens. Until next time friends!
 

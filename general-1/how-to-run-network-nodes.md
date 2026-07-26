@@ -2,4 +2,4 @@
 
 ## Run Local Node
 
-Read more at: [https://github.com/MediaBlockchain001/CoinNetwork/tree/master/node-example](https://github.com/MediaBlockchain001/CoinNetwork/tree/master/node-example)
+Read more at: [https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example](https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example)

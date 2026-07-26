@@ -1,2 +1,2 @@
-# Things you can do on MediaBlock Coin
+# Things you can do on Zentroscan Coin
 

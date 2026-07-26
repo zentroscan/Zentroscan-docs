@@ -1,4 +1,4 @@
-# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting MediaBlock
+# Exchanges, Wallets, On-Ramps and DeFi Tools Supporting Zentroscan
 
 ## Exchanges
 
@@ -10,7 +10,7 @@
 
 [Liquid Global](https://liquid.com)
 
-The best data on the active MediaBlock trading pairs is available [here](https://www.coingecko.com/en/coins/MediaBlock#markets).
+The best data on the active Zentroscan trading pairs is available [here](https://www.coingecko.com/en/coins/Zentroscan#markets).
 
 ### DEXes
 
@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[MediaBlock Coin Cash](https://MediaBlock.c)
+[Zentroscan Coin Cash](https://Zentroscan.c)
 
 Metamask
 
@@ -50,10 +50,10 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[MediaBlock Coin Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-MediaBlock.md#exchanges)
+[Zentroscan Coin Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-Zentroscan.md#exchanges)
 
-[MediaBlock Coin Rewards](https://rewards.MediaBlockscan.io)
+[Zentroscan Coin Rewards](https://rewards.Zentroscan.com)
 
-[MediaBlock Coin Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+[Zentroscan Coin Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
 [Staking Rewards](https://www.stakingrewards.com/)

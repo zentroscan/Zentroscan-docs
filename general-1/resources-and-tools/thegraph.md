@@ -1,6 +1,6 @@
 ---
 description: >-
-  Build of The Graph, we expose a GraphQL API to access the data on the MediaBlock Coin
+  Build of The Graph, we expose a GraphQL API to access the data on the Zentroscan Coin
   Network
 ---
 
@@ -8,15 +8,15 @@ description: >-
 
 ## Deploying your own subgraph
 
-TheGraph, a decentralized protocol for indexing and querying chain data, supports the MediaBlock Coin Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
+TheGraph, a decentralized protocol for indexing and querying chain data, supports the Zentroscan Coin Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
 
 * Follow the instructions for how to deploy the subgraph
-* in `subgraph.yaml`, the network name should be `MediaBlock`
+* in `subgraph.yaml`, the network name should be `Zentroscan`
 
 ## Available Subgraphs
 
-Subgraphs that builded and maintained by the MediaBlock Coin team, deployed on MediaBlock Coin internal infrastructure or The Graph hosted service.
+Subgraphs that builded and maintained by the Zentroscan Coin team, deployed on Zentroscan Coin internal infrastructure or The Graph hosted service.
 
-### MediaBlock Coin Consensus
+### Zentroscan Coin Consensus
 
-on MediaBlock Coin graph-node: [https://thegraph.MediaBlockscan.io/subgraphs/name/MediaBlockchain/MediaBlock-consensus](https://thegraph.MediaBlockscan.io/subgraphs/name/MediaBlockchain/MediaBlock-consensus)
+on Zentroscan Coin graph-node: [https://thegraph.Zentroscan.com/subgraphs/name/Zentroscanchain/Zentroscan-consensus](https://thegraph.Zentroscan.com/subgraphs/name/Zentroscanchain/Zentroscan-consensus)

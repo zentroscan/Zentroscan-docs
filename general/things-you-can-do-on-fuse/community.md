@@ -4,13 +4,13 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/)&#x20;
 
-**MediaBlock Coin Forum**: [https://forum.MediaBlockscan.io/](https://forum.MediaBlockscan.io/)
+**Zentroscan Coin Forum**: [https://forum.Zentroscan.com/](https://forum.Zentroscan.com/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-**Italian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
+**Italian Zentroscan Coin Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian Zentroscan Coin Telegram community:** [https://t.me/](https://t.me/)
 
