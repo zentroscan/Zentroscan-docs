@@ -1,2 +1,0 @@
-# Zentroscan Coin for Business
-

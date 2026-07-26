@@ -4,7 +4,6 @@
 
 ## DOCUMENTATION <a href="#general" id="general"></a>
 
-* [Zentroscan Coin for Business](general/zentroscan-coin-for-business.md)
 * [Things you can do on Zentroscan Coin](general/things-you-can-do-on-zentroscan-coin/README.md)
   * [Interacting with the Zentroscan Coin Blockchain](general/things-you-can-do-on-zentroscan-coin/interacting-with-the-zentroscan-coin-blockchain.md)
   * [Zentroscan Coin Ecosystem](general/things-you-can-do-on-zentroscan-coin/zentroscan-coin-ecosystem.md)
