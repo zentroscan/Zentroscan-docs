@@ -17,6 +17,4 @@ TheGraph, a decentralized protocol for indexing and querying chain data, support
 
 Subgraphs that builded and maintained by the Zentroscan Coin team, deployed on Zentroscan Coin internal infrastructure or The Graph hosted service.
 
-### Zentroscan Coin Consensus
-
-on Zentroscan Coin graph-node: https://thegraph.Zentroscan.com/subgraphs/name/Zentroscanchain/Zentroscan-consensus
+###
