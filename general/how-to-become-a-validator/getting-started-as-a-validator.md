@@ -11,5 +11,5 @@ In order to be a Zentroscan Coin validator, you first must see that you meet the
 
 To quickly become a validator, follow this steps:
 
-Read more at: [https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example](https://github.com/Zentroscanchain001/CoinNetwork/tree/master/node-example)
+Read more at: [https://github.com/zentroscan/Become-Validator](https://github.com/zentroscan/Become-Validator)
 
